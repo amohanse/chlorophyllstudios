@@ -1,3 +1,2 @@
 @echo on
-echo Deploying files...
-xcopy %DEPLOYMENT_SOURCE%\sample.war %DEPLOYMENT_TARGET%\bin\apache-tomcat-7.0.52\webapps\ROOT.war /Y
+echo Running custom build file
