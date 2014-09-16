@@ -1,2 +1,2 @@
-@echo on
-echo Running custom build file
+[config]
+command = deploy.cmd
